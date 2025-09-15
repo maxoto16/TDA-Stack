@@ -13,7 +13,7 @@ captura de pantalla del código (dos capturas si haces dos clases o mas)
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/65f7b5cb-2bed-44b8-89e0-f86ffc1991ab" />
 
 url del repositorio
-
+https://github.com/maxoto16/TDA-Stack
 
 Notas:
 Cuidado con el código generado o tabulado
